@@ -1,2 +1,2 @@
 ## About Myself
-![My photo](IMG_7060.jpg)
+![My photo](IMG_7060.JPG)
