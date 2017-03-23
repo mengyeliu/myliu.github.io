@@ -13,6 +13,6 @@ We did some basic thing about this topic. [Details]("/assignment2.html")
 ### Natural language processing (NLP)
 NLP is a field of computer science, artificial intelligence, and computational linguistics concerned with the interactions between computers and human (natural) languages and, in particular, concerned with programming computers to fruitfully process large natural language corpora.
 
-We download scrape text from The California Aggie and then analyze the text. [Details]("/assignment5.html")
+We download scrape text from The California Aggie and then analyze the text. [Details](assignment5.html)
 ## Project
 Our project is about Trump's tweets and we did some analysis about his twitter data. [Project](https://kevinxucong.github.io/141B/)
