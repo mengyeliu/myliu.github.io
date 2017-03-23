@@ -6,5 +6,7 @@ I am from China and my hometwon is Xi'an. It is a city with rich culture and man
 # About 141B
 In this course, students learn the concepts and gain experience in using fundamental technologies for data sciences.
 ## Some topics in class
+### Image Processing
+
 ## Project
 Our project is about Trump's tweets and we did some analysis about his twitter data. [Project](https://kevinxucong.github.io/141B/)
