@@ -9,6 +9,6 @@ In this course, students learn the concepts and gain experience in using fundame
 ### Image Processing
  image processing is processing of images using mathematical operations by using any form of signal processing for which the input is an image, a series of images, or a video, such as a photograph or video frame; the output of image processing may be either an image or a set of characteristics or parameters related to the image.
  
-We did some basic thing about this topic. [Details](assignment2.html)
+We did some basic thing about this topic. [Details]("/assignment2.html")
 ## Project
 Our project is about Trump's tweets and we did some analysis about his twitter data. [Project](https://kevinxucong.github.io/141B/)
