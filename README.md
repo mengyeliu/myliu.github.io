@@ -10,5 +10,9 @@ In this course, students learn the concepts and gain experience in using fundame
  image processing is processing of images using mathematical operations by using any form of signal processing for which the input is an image, a series of images, or a video, such as a photograph or video frame; the output of image processing may be either an image or a set of characteristics or parameters related to the image.
  
 We did some basic thing about this topic. [Details]("/assignment2.html")
+### Natural language processing (NLP)
+NLP is a field of computer science, artificial intelligence, and computational linguistics concerned with the interactions between computers and human (natural) languages and, in particular, concerned with programming computers to fruitfully process large natural language corpora.
+
+We download scrape text from The California Aggie and then analyze the text. [Details]("/assignment5.html")
 ## Project
 Our project is about Trump's tweets and we did some analysis about his twitter data. [Project](https://kevinxucong.github.io/141B/)
